@@ -43,8 +43,6 @@ JAVASCRIPT: FUNÇÃO
 -  Comparação entre string de
 números
 
-E ai pessoal, hoje vou trazer um assunto interessante que acontece dentro do Javascript que é a comparação entre números em formato string.
-
 Abaixo temos uma cadeia de string de números.
 
     const cadeia_de_strings = '1, 2, 3, 4, 5, 6, 7, 8, 9'
