@@ -1,4 +1,4 @@
-#JAVASCRIPT: FUNÇÃO
+JAVASCRIPT: FUNÇÃO
 
 - Cidadão de Primeira Linha
     
